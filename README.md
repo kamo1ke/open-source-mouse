@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy  
+## sfc2013-design-strategy   
 This document is made by [gitfab](http://gitfab.org)
 ---
 #idea-手あったかマウス
@@ -18,4 +18,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ４、使用者側から見た写真。
 ![写真 5.JPG](https://raw.github.com/kamo1ke/open-source-mouse/master/gitfab/resources/写真 5.JPG)
+
+・11/26の授業を経て
+素材とサイズを吟味します。
 ---
