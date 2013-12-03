@@ -1,5 +1,5 @@
 # open-source-mouse
-## sfc2013-design-strategy    
+## sfc2013-design-strategy     
 This document is made by [gitfab](http://gitfab.org)
 ---
 #idea-手あったかマウス
@@ -25,7 +25,7 @@ This document is made by [gitfab](http://gitfab.org)
 #idea-手あったかマウスパッド２
 
 -前回の発表のフィードバックを受けて、
-デザインの暖かみと布生地が評価を受けたので、底面も布生地で作成する。
+手を覆うデザインの暖かみと布生地が評価を受けたので、底面も布生地で作成する。
 教室で使用するにはオレンジ色は派手なので黒色の生地に変更する。
 底面のサイズも少し小さくした。
 
