@@ -33,7 +33,7 @@ This document is made by [gitfab](http://gitfab.org)
 左が底面、右が上部
 ![写真 6.JPG](https://raw.github.com/kamo1ke/open-source-mouse/master/gitfab/resources/写真 6.JPG)
 
-２、保温効果を期待してキルトを使用する。手芸用ボンドで貼る。
+２、保温効果を期待して綿を使用する。手芸用ボンドで貼る。
 ![写真 7.JPG](https://raw.github.com/kamo1ke/open-source-mouse/master/gitfab/resources/写真 7.JPG)
 
 ３、使用者側から見た図
@@ -45,7 +45,7 @@ This document is made by [gitfab](http://gitfab.org)
 -実際に使用してみて。
 暖かい。
 底面のサイズを小さくしすぎてマウスの可動域が減りすぎてしまった。
-キルト生地と手の甲がこすれてかさかさする。
+綿と手の甲がこすれてかさかさする。
 相変わらず左手を添えないとマウスパッド自体が動いてしまう。(→金属を底面の布の下に付属させる？)
 使用する手がボンド臭くなる。
 黒色だと暖かみが減ったように感じる。
