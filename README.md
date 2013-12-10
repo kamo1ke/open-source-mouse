@@ -54,5 +54,5 @@ This document is made by [gitfab](http://gitfab.org)
 #12/10
 設計図を作成。
 
-[te_attaka_mouse.pdf](https://raw.github.com/kamo1ke/open-source-mouse/master/gitfab/resources/te_attaka_mouse.pdf)
+![te_attaka_mouse-01.jpg](https://raw.github.com/kamo1ke/open-source-mouse/master/gitfab/resources/te_attaka_mouse-01.jpg)
 ---
